@@ -1,6 +1,7 @@
 # 📊 Tableau Public Portfolio
 
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/dev.mithunisvar/vizzes) 
+
 Welcome to my Tableau Public Portfolio! This repository showcases a collection of interactive dashboards and visualizations created using Tableau. Each project is designed to uncover hidden insights from raw data, focusing on clarity and effectiveness in data storytelling.
 
 ## 🗂️ Table of Contents
