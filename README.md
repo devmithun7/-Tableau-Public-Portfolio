@@ -1,7 +1,6 @@
 # 📊 Tableau Public Portfolio
 
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/profile/your-profile-link) ![GitHub last commit](https://img.shields.io/github/last-commit/devmithunisvar/Tableau-Public-Portfolio?style=for-the-badge) ![GitHub repo size](https://img.shields.io/github/repo-size/devmithunisvar/Tableau-Public-Portfolio?style=for-the-badge) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
-
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/dev.mithunisvar/vizzes) 
 Welcome to my Tableau Public Portfolio! This repository showcases a collection of interactive dashboards and visualizations created using Tableau. Each project is designed to uncover hidden insights from raw data, focusing on clarity and effectiveness in data storytelling.
 
 ## 🗂️ Table of Contents
@@ -23,12 +22,12 @@ I have leveraged Tableau Public to create compelling visualizations across multi
 ### 1. 🛒 **Iowa Liquor Sales Analysis**
 - **Description**: A comprehensive analysis of sales trends, consumer behavior, and top-performing products in the Iowa Liquor market.
 - **Key Insights**: Seasonal trends, top-performing products, and sales distribution by region.
-- **Explore the Dashboard**: [Iowa Liquor Sales Analysis](https://public.tableau.com/views/IowaLiquorSalesAnalysis/)
+- **Explore the Dashboard**: [Iowa Liquor Sales Analysis](https://public.tableau.com/app/profile/dev.mithunisvar/viz/IowaLiquorSales_17237708067000/Dashboard1)
 
 ### 2. 🚦 **Accident Analysis & Safety Improvement**
 - **Description**: Visualization to identify accident hotspots, categorize accident severity, and analyze environmental and demographic factors.
 - **Key Insights**: Accident hotspots, factors influencing severity, and safety recommendations.
-- **Explore the Dashboard**: [Accident Analysis Dashboard](https://public.tableau.com/views/AccidentAnalysis/)
+- **Explore the Dashboard**: [Accident Analysis Dashboard](https://public.tableau.com/app/profile/dev.mithunisvar/viz/USARoadAccidents2017to2023/Dashboard2)
 
 ### 3. 📊 **Retail Sales Performance Dashboard**
 - **Description**: Tracks sales performance across different regions and product categories with KPIs like total revenue, profit margins, and year-over-year growth.
@@ -58,13 +57,7 @@ I have leveraged Tableau Public to create compelling visualizations across multi
 
 ## 🚀 Getting Started
 
-To explore these dashboards, visit my [Tableau Public Profile](https://public.tableau.com/profile/your-profile-link). You can interact with the visualizations, apply filters, and drill down into specific categories.
-
-## 📞 Contact Information
-
-Let's connect! If you have any questions, feedback, or collaboration ideas, feel free to reach out:
-- **📧 Email**: [your-email@example.com](mailto:your-email@example.com)
-- **🔗 LinkedIn**: [Connect with me](https://www.linkedin.com/in/your-linkedin-profile)
+To explore these dashboards, visit my [Tableau Public Profile](https://public.tableau.com/app/profile/dev.mithunisvar/vizzes). You can interact with the visualizations, apply filters, and drill down into specific categories.
 
 ## 👏 Acknowledgments
 
